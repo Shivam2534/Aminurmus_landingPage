@@ -59,7 +59,7 @@ export default function Testimonial() {
             className="text-purple-700 hover:underline cursor-pointer"
             onClick={SoMoreCourses}
           >
-            {toggleStatus === "hidden" ? "SHOW MORE" : "SHOW LESS"}
+            {toggleStatus === "hidden" ? "MORE" : "LESS"}
           </a>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
