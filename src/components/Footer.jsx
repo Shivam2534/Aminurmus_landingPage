@@ -60,7 +60,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-gray-700 text-center text-sm text-gray-400">
-          2024, ALL RIGHTS RESERVED | CREATED BY SUFIYA AHMED
+          2024, ALL RIGHTS RESERVED | CREATED BY Shivam kanchole
         </div>
       </div>
     </footer>
