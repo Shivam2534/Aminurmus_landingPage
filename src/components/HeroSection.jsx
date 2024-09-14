@@ -3,7 +3,7 @@ import main_pic from "../assets/main_pic.jpg";
 
 export default function HeroSection() {
   return (
-    <section className="relative bg-red-400 sm:bg-blue-400 md:bg-green-500">
+    <section className="relative">
       <img src={main_pic} alt="main office" className="aspect-[16/9]" />
       <div className="absolute inset-0 flex flex-col justify-center items-center sm:mb-52">
         <h1
